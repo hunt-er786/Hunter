@@ -1,0 +1,10 @@
+{
+  "name": "Hunter Real Estate",
+  "description": "Premium real estate platform with Hunter, an AI Property Guide.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
